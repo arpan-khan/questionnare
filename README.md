@@ -1,5 +1,5 @@
 # questionnare
-### I was tired of the annoying Genshin impact dialogues so i made this.
+### mcqs
 ![quiestionnare](logo.jpg)
 # How to use?
 ### First you need to download the repository and unzip it
